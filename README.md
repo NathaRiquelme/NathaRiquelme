@@ -1,11 +1,7 @@
 # nathariquelme.github.io
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Nathalia</div>  
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Nathalia Riquelme</h3>
   
 
 - 🔭 I’m currently working as CEO of a printing company   
